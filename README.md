@@ -27,4 +27,5 @@ ___
 ![](	https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![](	https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={rymrtpgg}&theme=blue-green">
