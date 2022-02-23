@@ -3,7 +3,7 @@
 
 ## **About Me** 😎
 - 👨‍🎓 I'm an IT Student
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning LaraVue
 - 🔰 I'm Noob programmer
 - 👯 I’m looking to collaborate with me to make a System
 - ⚡ Fun fact: I love to play guitar 
